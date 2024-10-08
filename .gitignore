@@ -1,0 +1,15 @@
+# Ignorar algo de las pruebas
+.pytest/
+
+# Ignorar archivos virtuales
+venv/
+
+# Ignorar configuración de PyCharm
+.idea/
+
+# Ignorar caché de pytest
+.pytest_cache/
+
+# Ignorar caché de Python
+__pycache__/
+
