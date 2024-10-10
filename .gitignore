@@ -13,3 +13,4 @@ venv/
 # Ignorar caché de Python
 __pycache__/
 
+cd "C:\Users\Lachy\PycharmProjects\api_stand_tests"
